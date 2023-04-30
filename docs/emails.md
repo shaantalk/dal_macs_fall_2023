@@ -6,7 +6,7 @@ nav_order: 2
 
 # Important Emails
 
-| head1        | head two          |
+| Owner | Email ID |
 |:-------------|:------------------|
 | Student Accounts | staccts@dal.ca |
 | Graduate Studies | graduate.studies@dal.ca |
