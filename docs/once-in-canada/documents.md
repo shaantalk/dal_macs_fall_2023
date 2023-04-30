@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Documents
-parent: Once in Canada
+parent: Once in Halifax
 nav_order: 1
 ---
 
