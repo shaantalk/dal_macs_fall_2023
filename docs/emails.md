@@ -12,4 +12,4 @@ nav_order: 2
 | Graduate Studies | graduate.studies@dal.ca |
 | CS Faculty | graduate@cs.dal.ca |
 | Registrar | registrar@dal.ca |
-| If ID get blocked | admiss@dal.ca |
+| ID blocked | admiss@dal.ca |
