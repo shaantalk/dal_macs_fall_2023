@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Before Canada
-nav_order: 5
+nav_order: 6
 has_children: true
 permalink: /docs/before-canada
 ---
