@@ -5,7 +5,9 @@ parent: Academics
 nav_order: 1
 ---
 
-Term 1 : Fall 2023/24
+# Course Selection
+
+### Term 1 : Fall 2023/24
 
 |CRN|Course Name|
 |----------------|-------------------------------|
@@ -15,10 +17,12 @@ Communicating Computer Science Ideas|
 |CSCI 5408|Data Management, Warehousing, & Analytics|
 
 
-Term 2 : Winter 2023/24
+### Term 2 : Winter 2023/24
 
 |CRN|Course Name|
 |----------------|-------------------------------|
 |CSCI 5601|Designing for UX|
 |CSCI 5708|Mobile Computing|
 |CSCI 6057|Advanced Data Structures|
+|CSCI 6105|Algorithm Engineering|
+
