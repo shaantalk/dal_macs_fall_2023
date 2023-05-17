@@ -25,3 +25,14 @@ nav_order: 1
 |CSCI 6057|Advanced Data Structures|
 |CSCI 6105|Algorithm Engineering|
 
+
+### Term 3 : Summer 2024/25
+
+I want to take these courses in term 3. Not confirmed yet
+
+|CRN|Course Name|
+|----------------|-------------------------------|
+|CSCI 5410|Serverless Data Processing|
+|CSCI 5409|Advanced Topics in Cloud Computing|
+|CSCI 5709|Advanced Topics in Web Development|
+
