@@ -11,8 +11,7 @@ nav_order: 1
 
 |CRN|Course Name|
 |----------------|-------------------------------|
-|CSCI 5100|  
-Communicating Computer Science Ideas|
+|CSCI 5100|Communicating Computer Science Ideas|
 |CSCI 5308|Advanced Topics in Software Development|
 |CSCI 5408|Data Management, Warehousing, & Analytics|
 
