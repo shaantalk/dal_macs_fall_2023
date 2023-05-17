@@ -14,7 +14,7 @@ nav_order: 1
 |CSCI 5100|Communicating Computer Science Ideas|
 |CSCI 5308|Advanced Topics in Software Development|
 |CSCI 5408|Data Management, Warehousing, & Analytics|
-
+|REGN 9999|Graduate Program Fee Reg'n|
 
 ### Term 2 : Winter 2023/24
 
@@ -24,6 +24,8 @@ nav_order: 1
 |CSCI 5708|Mobile Computing|
 |CSCI 6057|Advanced Data Structures|
 |CSCI 6105|Algorithm Engineering|
+|CSCI 9890|Internship Preparation|
+|REGN 9999|Graduate Program Fee Reg'n|
 
 
 ### Term 3 : Summer 2024/25
